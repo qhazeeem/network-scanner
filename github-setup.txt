@@ -1,0 +1,15 @@
+# Repository Structure
+network-scanner/
+├── LICENSE
+├── README.md
+├── requirements.txt
+├── .gitignore
+├── src/
+│   └── network_scanner.py
+├── docs/
+│   ├── CONTRIBUTING.md
+│   └── CODE_OF_CONDUCT.md
+└── tests/
+    └── test_network_scanner.py
+
+# File Contents:
